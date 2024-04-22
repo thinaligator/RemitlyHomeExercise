@@ -14,4 +14,9 @@ Method shall return logical false if an input JSON Resource field contains a sin
 The repository contains a project directory which includes the `JsonValidator class`, the `JsonValidatorTest test class`, and various `JSON` files with contents necessary for conducting tests.
 
 ## How to run - INSTRUCTION
+Project is created with:
+1 Lorem version: 12.3
+2 Ipsum version: 2.33
+3 Ament library version: 999
+
   
