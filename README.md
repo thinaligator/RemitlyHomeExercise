@@ -35,4 +35,6 @@ You can run the `RemitlyExercise` program by executing the `main` method in the 
 
 3. Check the console output to see if the "Resource" field in the JSON file meets the required criteria.
 
+4. Enjoy!
+
   
